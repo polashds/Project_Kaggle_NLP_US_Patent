@@ -1,0 +1,14 @@
+pandas
+matplotlib
+seaborn
+kaggle
+ipykernel
+transformers
+numpy
+tensorflow
+scikit-learn
+IPython
+datasets
+pytorch
+nltk
+regex
